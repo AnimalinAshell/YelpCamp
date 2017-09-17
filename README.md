@@ -1,2 +1,2 @@
 # YelpCamp
-YelpCamp code along using HTML, CSS, Node.js, Express, MongoDB. Learned how to Authenticate, and Deploy Apps
+YelpCamp code along using HTML, CSS, Node.js, Express, MongoDB. Learning how to Authenticate, and Deploy Apps
